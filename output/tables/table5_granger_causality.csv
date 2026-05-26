@@ -1,0 +1,7 @@
+Cause,Effect,Best_Lag,Best_p,Sig
+MPC_Sentiment,CPI_Inflation,3,0.1006,No
+MPC_Sentiment,GDP_Growth,2,0.2993,No
+MPC_Sentiment,Nifty50,3,0.1516,No
+MPC_Sentiment,Bank_Credit_Growth,1,0.211,No
+MPC_Sentiment,USD_INR,4,0.0111,**
+MPC_Sentiment,FSR_Sentiment,1,0.0603,*
